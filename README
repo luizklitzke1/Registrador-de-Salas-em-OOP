@@ -1,0 +1,8 @@
+Esse programa é um registrador de salas baseado em OOP feito em Python3
+
+
+Como executar:
+
+1 - Execute 'registrador_salas.py'
+2 - Siga as opções disponíveis na tela.
+3 - Em caso de duvida, digite 0 para rever as opções 
